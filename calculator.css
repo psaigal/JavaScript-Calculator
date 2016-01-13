@@ -1,0 +1,30 @@
+* {
+  outline:1px solid red;
+}
+
+.cell {
+  text-align: center;
+  font-size: 30px;
+  display: table-cell;
+  width:auto;
+}
+
+#display {
+  height:100px;
+  width: 100%;
+}
+
+
+.row {
+  width: 100%;
+  background-color: yellow;
+}
+
+#grid {
+  width:30%;
+  margin-top: 10%;
+  margin-left: 35%;
+  margin-right: 35%;
+  background-color: yellow;
+
+}
